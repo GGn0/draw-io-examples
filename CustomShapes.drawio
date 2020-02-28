@@ -1,1 +1,21 @@
-<mxfile host="www.draw.io" modified="2020-02-28T07:10:55.646Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.122 Safari/537.36" version="12.7.9" etag="Ceu7GYhKq5rN6AxIBZs8" type="github"><diagram id="OEHvVqHUjdOrPVObB0Oe">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="www.draw.io" modified="2020-02-28T07:51:07.065Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.122 Safari/537.36" etag="7hHA-722Dg885QtYOk2d" version="12.7.9" type="github">
+  <diagram id="OEHvVqHUjdOrPVObB0Oe" name="Page-1">
+    <mxGraphModel dx="1248" dy="751" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="SNkjPJzJkBfok2OXVstp-1" value="" style="shape=stencil(xZXRDoIgFIafhnsEq+tm9R6omEwSB6b19oHoksqtGtQNO4fz8+3Azn4ATlRJGgoQLAHeAYQQ1ItOe5vGK5sS1dCstXsdkYyknNqKaqWoaM/ydiSwuqSStaaK9wBugUHCe4CTlGTVUYpznTuKB92kboghP+leqqczJ9GZO11sR+OVrk4G0OFTKmf1jLoJQo2Qg428ccO0i+Iwr+Bi/XGhL27GhaLfHXWHE4eZTrz+BTZaeeJOPhOY6+8d/jlIONHiBVuc2awWLTjtTFQISd/34oJxbg1/sWO3gQW8Doay/XyGyg0=);whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="40" y="40" width="80" height="40" as="geometry" />
+        </mxCell>
+        <object label="" placeholders="1" angle="45" id="SNkjPJzJkBfok2OXVstp-3">
+          <mxCell style="shape=stencil(rVRRbsMgDD0Nn6kSkKr1c8vWe7iUJKgsIMOa9PaFkG6hXbqmGkIC7IeN37MgrLQNGEFo3hD2TiilJMy8S05gjeAumo6AEnZKRI91qA+ik3s33pdtI1C64GUfJH/1mDC/N6zcAT/UqL/afYK4wl3QQilpbHhgHxPkMfEpOaXPTUshdPtIolgJ10qjN8R1CEMoy4fxRLi/8az0gBlKJqBKo3icNANBjhvcr+jLnU99nLBME5aLe6XfjQrIJ9Kt6Ial8v1YcAQVq5FoPF0ZFGAtMh8xqxTUif62E8LcmvsMemkz1A6c1G3ie6IYJdsJRcU/UcSVtvONMqOwB8+IvKixX+gbW68XNXYllVrU3DOt6zeDO/4/g+cM);whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+            <mxGeometry x="40" y="200" width="120" height="120" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="SNkjPJzJkBfok2OXVstp-4" value="D = 2&lt;br&gt;α = 135°&lt;br&gt;cos(α) = -0.707&lt;br&gt;sin(α) = 0.707&lt;br&gt;C = (1,1)&lt;br&gt;P1 = (0,0)&lt;br&gt;P2 = (C&lt;sub&gt;x&lt;/sub&gt; - cos(α), C&lt;sub&gt;y&lt;/sub&gt; - sin(α)&amp;nbsp;)" style="text;align=left;verticalAlign=middle;resizable=1;points=[];autosize=1;imageAspect=0;recursiveResize=0;expand=1;resizeWidth=1;resizeHeight=1;horizontal=1;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="222" width="170" height="98" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
